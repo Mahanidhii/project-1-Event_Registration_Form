@@ -3,3 +3,4 @@
 ### things i did:
 - index
 - registration form
+Made a registration form using HTML.
