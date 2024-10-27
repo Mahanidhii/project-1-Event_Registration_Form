@@ -1,7 +1,7 @@
 # Hello World in HTML
 
 ### Description
-Learning git and github basic commands and printing hello world using a html file
+Learning git and github basic commands and printing hello world using a html file.
 
 ### Git commands used:
 1. `mkdir <file_name>` to create the folder
