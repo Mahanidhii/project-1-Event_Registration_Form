@@ -14,6 +14,6 @@ Learning git and github basic commands and printing hello world using a html fil
 
    
 ### Steps:
-1. Using the github commands used a folders and files were created
+1. Using the github commands, required folders and files were created
 2. Connection between git and github was established
 3. Made a html code that displays "hello world"
