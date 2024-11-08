@@ -15,9 +15,10 @@ Learning git and github basic commands and printing hello world using a html fil
    
 ### Steps:
 1. Using the github commands, required folders and files were created
-2. Connection between git and github was established
-3. Made a html code that displays "hello world"
+2. Connnection between git and github was established
+3. The student registration form was created using HTML and styling done using JavaScript.
 
 ### Output:
-![Screenshot 2024-10-27 121533](https://github.com/user-attachments/assets/641a2323-ba2d-480d-a648-ea3db8fccde1)
+![380084316-2091c0d9-1f53-42ef-a76f-d15b5388ea8d](https://github.com/user-attachments/assets/1ec0fe90-6dad-4b24-82c0-4089478c7783)
+
 
