@@ -1,5 +1,4 @@
-# Hello World in HTML
-
+# Event Form using HTML
 ### Description
 Learning git and github basic commands and printing hello world using a html file.
 
